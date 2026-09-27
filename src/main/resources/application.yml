@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: credit-utilisation-service
+server:
+  port: 8080
